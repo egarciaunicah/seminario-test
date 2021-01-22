@@ -1,1 +1,7 @@
-Esta es un archivo de texto 
+Esta es un archivo de texto.
+
+Honduras
+Guatemala
+El Salvador
+Nicaragua
+Costa Rica
